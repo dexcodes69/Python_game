@@ -1,0 +1,33 @@
+.a{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.b{
+    background-color: blue;
+    width: 300px;
+    height:20px;
+}
+.c{ 
+    background-color: red;
+    width: 300px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.c1{
+    background-color: green;
+    width: 140px;
+    height: 140px;
+}
+.c2{
+    background-color: rgb(0, 0, 0);
+    width: 140px;
+    height: 140px;
+}
